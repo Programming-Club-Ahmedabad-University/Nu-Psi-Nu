@@ -6,7 +6,7 @@ The repository contains Python Notebooks for the session. The notebooks contains
 
 You can use these notebooks in Google Colab to learn and practice Numpy, Scipy and Numba. Following are the steps to use the given notebooks in your Colab environment - 
 
-  - Download Python notebook (.ipnyb files) [ or clone the repo :) ]
+  - Download Python notebook (.ipynb files) [ or clone the repo :) ]
   - Open [Google Colab](https://colab.research.google.com/)  and upload the notebook.
   
   
