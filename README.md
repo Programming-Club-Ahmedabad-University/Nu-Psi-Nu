@@ -14,7 +14,7 @@ Now you would be able to code and edit these notebooks on your Google Colab envi
 
 All the resources for the session will be shared here so check out this repository once in a while.
 
-PS : The event is only for the Ahmedabad University students
+PS : The event is only for the Ahmedabad University students.
 
 If you found this repository/event useful, then please star the repo so that it reaches more and more people. 	   
 
